@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielOvie
+- 👋 Hi, I’m @Gabriel
 - 👀 I’m interested in all things Technology: From Service desk, to system administration, to Networking and Cybersecurity
 - 🌱 I’m currently learning Ethical Hacking and Penetration testing of IOT devices and Active Driectory
 - 📫 How to reach me ...
