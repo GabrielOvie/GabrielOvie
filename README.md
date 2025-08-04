@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @Gabriel
-- 👀 I’m interested in all things Technology: From Service desk, to system administration, to Networking and Cybersecurity
-- 🌱 I’m currently learning Ethical Hacking and Penetration testing of IOT devices and Active Directory
-- 📫 How to reach me ...
-- 😄 Pronouns: HE/Him
-- ⚡ Fun fact: Got into cybersecurity because i got hacked. lol
+# 👋 Hi, I'm Gabriel Ovie
 
-<!---
-GabrielOvie/GabrielOvie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Budding **Cloud & Infrastructure Engineer** passionate about automating everything with code.
+
+🛠️ Currently working on:
+- Infrastructure-as-Code with **Terraform** & **AWS**
+- Server provisioning with **Ansible**
+- CI/CD Pipelines using **GitHub Actions**
+
+📚 Learning Goals:
+- Kubernetes (K8s) and Helm
+- Cloud Security and IAM design
+- Monitoring with Prometheus & Grafana
+
+📂 Featured Projects:
+
+
+📫 How to reach me:  [Email]** gabriel@cloudgeek.uk**
