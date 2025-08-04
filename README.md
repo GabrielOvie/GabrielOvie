@@ -53,8 +53,7 @@ Here are some of the repositories that showcase my learning journey and capabili
 
 ## 🗣️ Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
-- 📧 gabriel.yourname@example.com (replace with your email)
+- 📧 gabriel@cloudgeek.uk
 - 📝 Blogs & Learnings coming soon!
 
 ---
